@@ -19,7 +19,6 @@ This project aims to segment customers into different groups based on their purc
 2.Open the notebook in Google Colab or Jupyter Notebook.
 ## usage
 ## To run the project:
-
 1.Download the dataset and place it in the appropriate directory.
 2.Open the .ipynb file (in Google Colab or Jupyter).
 3.Run each cell to execute the project. The notebook walks through the process of importing the data, preprocessing, applying K-means clustering, and visualizing the results.
