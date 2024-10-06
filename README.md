@@ -20,7 +20,12 @@ This project aims to segment customers into different groups based on their purc
 ## usage
 ## To run the project:
 1.Download the dataset and place it in the appropriate directory.\n
+
+
 2.Open the .ipynb file (in Google Colab or Jupyter).
+
+
+
 3.Run each cell to execute the project. The notebook walks through the process of importing the data, preprocessing, applying K-means clustering, and visualizing the results.
 ## Results
 The dataset was clustered into 5 groups where each cluster represents a unique group of customers with similar purchasing behaviors.
