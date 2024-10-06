@@ -19,7 +19,7 @@ This project aims to segment customers into different groups based on their purc
 2.Open the notebook in Google Colab or Jupyter Notebook.
 ## usage
 ## To run the project:
-1.Download the dataset and place it in the appropriate directory.\n
+1.Download the dataset and place it in the appropriate directory.
 
 
 2.Open the .ipynb file (in Google Colab or Jupyter).
