@@ -31,6 +31,9 @@ This project aims to segment customers into different groups based on their purc
 The dataset was clustered into 5 groups where each cluster represents a unique group of customers with similar purchasing behaviors.
 ## Technologies Used:
 -Python: For data analysis and model implementation.
+
 -Pandas & Numpy: For data manipulation.
+
 -Matplotlib & Seaborn: For data visualization.
+
 -Sklearn: For implementing K-Means clustering.
